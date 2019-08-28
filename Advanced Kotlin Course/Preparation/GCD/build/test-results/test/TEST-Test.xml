@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-26T09:55:57" hostname="gds000267-nb.carina.griddynamics.net" time="0.011">
+  <properties/>
+  <testcase name="gcd returnes 1 when x and y are primes" classname="Test" time="0.007"/>
+  <testcase name="gcd x and 0 gives x" classname="Test" time="0.001"/>
+  <testcase name="gcd for simple examples" classname="Test" time="0.0"/>
+  <testcase name="gcd returnes x for x and x" classname="Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

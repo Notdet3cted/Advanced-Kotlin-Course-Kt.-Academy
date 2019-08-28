@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects (1)/Operators" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects (1)/Person" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects (1)/Pizza" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects (1)/Product" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects (1)/Tree operations" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Classes and objects/task" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Delegates &amp; Builders/task" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Delegates/MutableLazy" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Best Students" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Flat Map" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Loop" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Passing Students" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Plus At" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Quick Sort" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functional/Repeat" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Arguments" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Biggest" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Factorial" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Hello World" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Nullability" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Functions/Tree" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Generics/Consumer" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Generics/Generic functions" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Generics/Response" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Higher-order functions/task" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Preparation/Fibonacci" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Preparation/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Preparation/GCD" />
+            <option value="$PROJECT_DIR$/Advanced Kotlin Course/Preparation/Hello World" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

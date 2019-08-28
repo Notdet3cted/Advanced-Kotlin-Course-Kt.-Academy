@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Advanced_Kotlin_Course-Classes_and_objects-task_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects-task_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Operators_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Operators_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Person_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Person_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Pizza_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Pizza_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Product_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Product_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Tree_operations_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Classes_and_objects__1_-Tree_operations_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Delegates-MutableLazy_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Delegates-MutableLazy_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Delegates_&amp;_Builders-task_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Delegates_&amp;_Builders-task_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Best_Students_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Best_Students_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Flat_Map_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Flat_Map_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Loop_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Loop_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Passing_Students_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Passing_Students_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Plus_At_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Plus_At_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Quick_Sort_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Quick_Sort_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Repeat_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functional-Repeat_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Arguments_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Arguments_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Biggest_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Biggest_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Factorial_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Factorial_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Hello_World_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Hello_World_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Nullability_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Nullability_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Tree_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Functions-Tree_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Consumer_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Consumer_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Generic_functions_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Generic_functions_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Response_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Generics-Response_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Higher-order_functions-task_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Higher-order_functions-task_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Fibonacci_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Fibonacci_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Fizz_Buzz_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Fizz_Buzz_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-GCD_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-GCD_test" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Hello_World_main" target="1.8" />
+      <module name="Advanced_Kotlin_Course-Preparation-Hello_World_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
